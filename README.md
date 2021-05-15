@@ -1,4 +1,4 @@
-# maria
+# Athena
  Um Assistente Virtual feito Em Python.
 
  Foco:
